@@ -1,0 +1,16 @@
+#cd /home/wasuaje
+
+#ffmpeg -i Meditaci_n_de_Introspecci_n_o_Vipassana_1_de_3.flv  -ab 256 vipassana_meditacion_1.mp3
+#ffmpeg -i Meditaci_n_de_Introspecci_n_o_Vipassana_2_de_3.flv  -ab 256 vipassana_meditacion_2.mp3
+ffmpeg -i Meditación de Introspección o Vipassana 3 de 3.flv  -ab 256 vipassana_meditacion_3.mp3
+#ffmpeg -i Escritorio/wayne/Tus_Zonas_Erróneas-WayneWDyer-4.flv  -ab 256 Escritorio/wayne/tzerroneas4.mp3
+#ffmpeg -i Escritorio/wayne/Tus_Zonas_Err_neas_-_Wayne_W._Dyer_-_5.flv  -ab 256 Escritorio/wayne/tzerroneas5.mp3
+#ffmpeg -i Escritorio/wayne/Tus_Zonas_Err_neas_-_Wayne_W._Dyer_-_6.flv  -ab 256 Escritorio/wayne/tzerroneas6.mp3
+#ffmpeg -i Escritorio/wayne/Tus_Zonas_Err_neas_-_Wayne_W._Dyer_-_7.flv  -ab 256 Escritorio/wayne/tzerroneas7.mp3
+#ffmpeg -i Escritorio/wayne/Tus_Zonas_Err_neas_-_Wayne_W._Dyer_-_8.flv  -ab 256 Escritorio/wayne/tzerroneas8.mp3
+#ffmpeg -i Escritorio/wayne/Tus_Zonas_Erróneas-WayneWDyer-9.flv  -ab 256 Escritorio/wayne/tzerroneas9.mp3
+#ffmpeg -i Escritorio/wayne/Tus_Zonas_Err_neas_-_Wayne_W._Dyer_-_10.flv  -ab 256 Escritorio/wayne/tzerroneas10.mp3
+#ffmpeg -i Escritorio/wayne/Tus_Zonas_Err_neas_-_Wayne_W._Dyer_-_11.flv  -ab 256 Escritorio/wayne/tzerroneas11.mp3
+#ffmpeg -i Escritorio/wayne/Tus_Zonas_Erróneas-WayneWDyer-12-FINAL.flv  -ab 256 Escritorio/wayne/tzerroneas12.mp3
+
+#cd /home/wasuaje/
